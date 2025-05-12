@@ -1,0 +1,31 @@
+/* Aplicar color de texto a cada palabra basada en su significado */
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: gold;
+}
+
+#orange {
+  color: orange;
+}
+
+/* Aplicar fuente normal solo a títulos de colores (clase color-title) */
+.color-title {
+  font-weight: normal;
+}
+
+/* Forzar que todas las imágenes sean cuadradas */
+img {
+  width: 200px;
+  height: 200px;
+}
